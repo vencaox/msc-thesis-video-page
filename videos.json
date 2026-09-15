@@ -2,12 +2,12 @@
   {
     "id": "basket-can",
     "kind": "file",
-    "name": "basket-can.gif",
+    "name": "basket-can.mp4",
     "label": "basket-can",
-    "file": "media/basket-can.gif",
-    "type": "gif",
-    "size_mb": 57.9,
-    "aspect": "2562/718"
+    "file": "media/basket-can.mp4",
+    "type": "mp4",
+    "size_mb": 0.8,
+    "aspect": "1280/358"
   },
   {
     "id": "can-misses-but-recovers",
